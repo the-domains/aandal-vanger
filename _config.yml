@@ -1,0 +1,14 @@
+layout_spectrum: 0.5728793
+color:
+  saturation: 0.6522915
+  lightness: 0.1167105
+  brandStrength: 0.1731249
+  brandColors:
+    - '#6E91AB'
+    - '#D8DFDF'
+    - '#6E7677'
+    - '#39434B'
+    - '#161E20'
+  rhythmicContrast: 0.5704669
+typography_spectrum: 0.2072879
+name: Aandal-Vanger
