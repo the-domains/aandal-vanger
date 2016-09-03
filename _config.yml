@@ -19,6 +19,10 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Steinar Aandal-Vanger
+  email: steinar@aandal-vanger.no
+  url: www.aandal-vanger.no
 name: Aandal-Vanger
 cta:
   bucket: null
