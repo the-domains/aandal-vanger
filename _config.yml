@@ -1,29 +1,41 @@
-name: Aandal-Vanger
-favicon: null
-layout_spectrum: 0.5728793
-typography_spectrum: 0.2072879
 title: 'Adrian, Gørild & Steinar'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6522915
+  brandStrength: 0.1731249
+  lightness: 0.1167105
+  brandColors:
+    - '#FFFEFF'
+    - '#302523'
+    - '#AF6645'
+    - '#FFB478'
+    - '#B5A79F'
+  rhythmicContrast: 0.5704669
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Aandal-Vanger
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#6E91AB'
-    - '#D8DFDF'
-    - '#6E7677'
-    - '#39434B'
-    - '#161E20'
-  brandStrength: 0.1731249
-  lightness: 0.1167105
-  saturation: 0.6522915
-  rhythmicContrast: 0.5704669
-purpose: []
+typography_spectrum: 0.2072879
+layout_spectrum: 0.5728793
